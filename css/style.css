@@ -8,7 +8,7 @@
 */
 
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,600|Open+Sans:400,600");
-
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
 
 /*
 * Section - Home
@@ -30,7 +30,9 @@
 
 /** BG Default */
 #home.home-bg-static {
-    background-image: url("https://live.staticflickr.com/7343/10980571025_4dd61661b6_b.jpg");
+    /* background-image: url("https://live.staticflickr.com/7343/10980571025_4dd61661b6_b.jpg"); */
+    background-color: black;
+    font-family: 'Rajdhani', sans-serif;
     /*
       "The forest of healing" by Brandon HM Oh is licensed with CC BY-NC-ND 2.0.
       To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/
